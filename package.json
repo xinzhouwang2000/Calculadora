@@ -1,0 +1,16 @@
+{
+  "name": "CORE-2020-Entrega1_Calculadora",
+  "version": "1.0.0",
+  "description": "CORE-2020/Entrega1_Calculadora",
+  "keywords": [
+    "CORE"
+  ],
+  "author": "CORE-2020",
+  "license": "Unlicense",
+  "info": {
+    "githubURL": "CORE-2020/Entrega1_Calculadora",
+    "serverUrl": "https://autocorector.dit.upm.es/",
+    "courseId": "8249",
+    "assignmentId": "76453"
+  }
+}
